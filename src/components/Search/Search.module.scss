@@ -1,0 +1,21 @@
+
+.input {
+  border: 2px solid #0b5ed7;
+  padding: 6px 15px;
+
+  &:focus {
+    outline: none;
+  }
+}
+
+.btn {
+  border: 2px solid #0b5ed7;
+  padding: 6px 21px;
+  background-color: #0b5ed7;
+  color: aliceblue;
+  cursor: pointer;
+
+  &:focus {
+    outline: none;
+  }
+}
